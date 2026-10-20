@@ -2,10 +2,6 @@
 
 > An AI-powered payment investigation copilot that reconstructs transaction timelines, reconciles payment events, identifies missing evidence, and prepares auditable resolution recommendations.
 
-**Built for:** Banking AI Hackathon  
-**Project category:** Agentic AI · Financial Services · Intelligent Automation · Responsible AI  
-**Status:** Hackathon prototype in development
-
 ---
 
 ## Overview
