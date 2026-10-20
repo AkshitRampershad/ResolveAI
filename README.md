@@ -272,7 +272,7 @@ The frontend command assumes a Next.js application exists in `frontend/`.
 
 **Note:** These commands describe the intended setup. They should be updated to match the actual repository structure and dependencies before the first public release.
 
-## Roadmap
+## Roadmap - WIP
 
 ### Phase 1 — Core investigation workflow
 - [ ] Define transaction, event, and dispute schemas.
@@ -325,10 +325,6 @@ The project is not affiliated with, endorsed by, or integrated with Bank of Amer
 - [NIST — AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 
 These references provide public context for dispute workflows and responsible AI development; they do not imply access to internal bank procedures.
-
-## License
-
-Choose and add an appropriate open-source license before publishing the repository.
 
 ---
 
